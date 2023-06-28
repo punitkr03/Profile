@@ -26,12 +26,12 @@
 <table align="centre">
 <tr>
     <td colspan="2" align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=punitkr03&show_icons=true&locale=en&layout=compact" alt="punitkr03" /></p>
+    <p><img src="https://github-readme-stats-4ciy0ilm7-punitkr03.vercel.app/api/top-langs?username=punitkr03&show_icons=true&locale=en&layout=compact" alt="punitkr03" /></p>
     </td>
 </tr>
 <tr>
     <td>
-    <p align="centre"><img src="https://github-readme-stats.vercel.app/api?username=punitkr03&show_icons=true&locale=en" alt="punitkr03" /></p>
+    <p align="centre"><img src="https://github-readme-stats-4ciy0ilm7-punitkr03.vercel.app/api?username=punitkr03&show_icons=true&locale=en" alt="punitkr03" /></p>
     </td>
     <td>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=punitkr03&" alt="punitkr03" /></p>
