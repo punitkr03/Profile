@@ -26,7 +26,7 @@
 <table align="centre">
 <tr>
     <td colspan="2" align="center">
-    <p><img src="https://github-readme-stats-4ciy0ilm7-punitkr03.vercel.app/api/top-langs?username=punitkr03&show_icons=true&locale=en&layout=compact" alt="punitkr03" /></p>
+    <p><img src="https://github-readme-stats-4ciy0ilm7-punitkr03.vercel.app/api/top-langs?username=punitkr03&show_icons=true&locale=en&layout=compact" width="600px" alt="punitkr03" /></p>
     </td>
 </tr>
 <tr>
