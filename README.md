@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Punit Kumar</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 <img align="right" width="500px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=punitkr03&label=Profile%20views&color=0e75b6&style=flat" alt="punitkr03" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tagpunitkr" target="blank"><img src="https://img.shields.io/twitter/follow/tagpunitkr?logo=twitter&style=for-the-badge" alt="tagpunitkr" /></a> </p>
 
