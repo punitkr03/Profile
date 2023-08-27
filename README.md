@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/tagpunitkr" target="blank"><img src="https://img.shields.io/twitter/follow/tagpunitkr?logo=twitter&style=for-the-badge" alt="tagpunitkr" /></a> </p>
 
-- 🌱 I’m currently learning **Node, Express, Tailwind.**
+- 🌱 I’m currently learning **Solidity, ether.js**
 
 - 💬 Ask me about **React, C, HTML, CSS.**
 
