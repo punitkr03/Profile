@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/tagpunitkr" target="blank"><img src="https://img.shields.io/twitter/follow/tagpunitkr?logo=twitter&style=for-the-badge" alt="tagpunitkr" /></a> </p>
 
-- 🌱 I’m currently learning **Go-lang.**
+- 🌱 I’m currently learning **Golang.**
 
 - 💬 Ask me about **Web Development**
 
