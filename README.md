@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **tagpunitkumar@gmail.com**
+- 📫 Reach me **tagpunitkumar@gmail.com**
 
 - ⚡ Fun fact **I am mostly sarcastic.**
 
