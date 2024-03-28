@@ -33,7 +33,7 @@
     <p align="centre"><img src="https://github-readme-stats-4ciy0ilm7-punitkr03.vercel.app/api?username=punitkr03&show_icons=true&locale=en&theme=holi" alt="punitkr03" /></p>
     </td>
     <td>
-    <p><img align="center" src="https://stats03.vercel.app?user=punitkr03&theme=holi-theme&border_radius=10" alt="punitkr03" /></p>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=punitkr03&theme=holi-theme" alt="GitHub Streak" /></a>
     </td>
 </tr>
 </table>
